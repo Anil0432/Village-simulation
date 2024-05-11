@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1653935259 source:c:\users\user\desktop\projects\6th sem\cg\dinosaur_using_opengl-main\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	"GL/glut.h"
+	"globaldeclare.h"
+	"dino.h"
+	"dino2.h"
+	"dino3.h"
+	"dinoRight.h"
+	"scene1.h"
+	"scene1_animation.h"
+	"intro.h"
+	"asteroid.h"
+	"space.h"
+	<mmsystem.h>
+
+1623598434 c:\users\user\desktop\projects\6th sem\cg\dinosaur_using_opengl-main\globaldeclare.h
+	<string.h>
+
+1623598434 c:\users\user\desktop\projects\6th sem\cg\dinosaur_using_opengl-main\dino.h
+	<stdio.h>
+
+1623598434 c:\users\user\desktop\projects\6th sem\cg\dinosaur_using_opengl-main\dino2.h
+	<stdio.h>
+
+1623598434 c:\users\user\desktop\projects\6th sem\cg\dinosaur_using_opengl-main\dino3.h
+	<stdio.h>
+
+1623598434 c:\users\user\desktop\projects\6th sem\cg\dinosaur_using_opengl-main\dinoright.h
+	<stdio.h>
+
+1623598434 c:\users\user\desktop\projects\6th sem\cg\dinosaur_using_opengl-main\scene1.h
+
+1623598434 c:\users\user\desktop\projects\6th sem\cg\dinosaur_using_opengl-main\scene1_animation.h
+
+1623598434 c:\users\user\desktop\projects\6th sem\cg\dinosaur_using_opengl-main\intro.h
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+	<iostream>
+
+1654097311 c:\users\user\desktop\projects\6th sem\cg\dinosaur_using_opengl-main\asteroid.h
+	<stdio.h>
+
+1623598434 c:\users\user\desktop\projects\6th sem\cg\dinosaur_using_opengl-main\space.h
+	<stdio.h>
+
